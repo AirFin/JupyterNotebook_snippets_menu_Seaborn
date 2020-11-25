@@ -50,6 +50,7 @@ snippets menu是一个在JupyterBotebook中插入常用代码的插件，方便�
 ---
 
 
+![5](5.png)
 
 欢迎大家关注我的公众号：沙克芬 SharkFin
 
