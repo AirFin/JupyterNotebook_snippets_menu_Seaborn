@@ -47,8 +47,17 @@ snippets menu是一个在JupyterBotebook中插入常用代码的插件，方便�
 ## 感谢
 
 感谢ApacheCN对文档的翻译！
+---
 
 
+
+欢迎大家关注我的公众号：沙克芬 SharkFin
+
+网站：[sharkfin.top](http://sharkfin.top)
+
+语雀：[沙克芬——全学科网站导航](https://www.yuque.com/alipayqgthu1irbf/sharkfin)
+
+知识星球：[沙克芬_稀有优质资源分享](https://t.zsxq.com/MJiIayN)
 
 ---
 
